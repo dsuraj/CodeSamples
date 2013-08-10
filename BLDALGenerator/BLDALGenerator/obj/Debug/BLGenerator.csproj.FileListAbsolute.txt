@@ -1,0 +1,9 @@
+D:\Projects\BLDALGenerator\BLDALGenerator\bin\Debug\BLDALGenerator.exe.config
+D:\Projects\BLDALGenerator\BLDALGenerator\bin\Debug\BLDALGenerator.exe
+D:\Projects\BLDALGenerator\BLDALGenerator\bin\Debug\BLDALGenerator.pdb
+D:\Projects\BLDALGenerator\BLDALGenerator\obj\Debug\BLGenerator.csprojResolveAssemblyReference.cache
+D:\Projects\BLDALGenerator\BLDALGenerator\obj\Debug\BLDALGenerator.BLGenerator.resources
+D:\Projects\BLDALGenerator\BLDALGenerator\obj\Debug\BLDALGenerator.Properties.Resources.resources
+D:\Projects\BLDALGenerator\BLDALGenerator\obj\Debug\BLGenerator.csproj.GenerateResource.Cache
+D:\Projects\BLDALGenerator\BLDALGenerator\obj\Debug\BLDALGenerator.exe
+D:\Projects\BLDALGenerator\BLDALGenerator\obj\Debug\BLDALGenerator.pdb
