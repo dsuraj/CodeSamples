@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CryptSharp", ".", "{2B659AEC-0BBF-43C5-AE52-496FE23C677D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/CryptSharp"
+		Debug.AspNetCompiler.PhysicalPath = "..\CryptSharp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CryptSharp\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CryptSharp"
+		Release.AspNetCompiler.PhysicalPath = "..\CryptSharp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CryptSharp\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49184"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B659AEC-0BBF-43C5-AE52-496FE23C677D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B659AEC-0BBF-43C5-AE52-496FE23C677D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
