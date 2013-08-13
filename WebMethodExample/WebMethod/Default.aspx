@@ -22,12 +22,9 @@
                         contentType: "application/json; charset=utf-8",
                         dataType: "json",
                         success: function (msg) {
-                            // Do something interesting here.
                             $("#<%=lblDatetime.ClientID%>").text(msg.d);
                         },
-                        error: function (msg) {
-                            debugger;
-                            return false;
+                        error: function (msg) {                           
                         }
                     });
                 }
