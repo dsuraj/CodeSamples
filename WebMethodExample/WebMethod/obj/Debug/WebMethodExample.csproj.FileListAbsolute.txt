@@ -1,0 +1,4 @@
+D:\Projects\CodeSamples\WebMethodExample\WebMethod\bin\WebMethod.dll
+D:\Projects\CodeSamples\WebMethodExample\WebMethod\bin\WebMethod.pdb
+D:\Projects\CodeSamples\WebMethodExample\WebMethod\obj\Debug\WebMethod.dll
+D:\Projects\CodeSamples\WebMethodExample\WebMethod\obj\Debug\WebMethod.pdb

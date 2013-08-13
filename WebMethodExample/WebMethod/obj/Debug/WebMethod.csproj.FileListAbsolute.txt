@@ -1,0 +1,5 @@
+D:\Projects\CodeSamples\WebMethod\WebMethod\bin\WebMethod.dll
+D:\Projects\CodeSamples\WebMethod\WebMethod\bin\WebMethod.pdb
+D:\Projects\CodeSamples\WebMethod\WebMethod\obj\Debug\WebMethod.csprojResolveAssemblyReference.cache
+D:\Projects\CodeSamples\WebMethod\WebMethod\obj\Debug\WebMethod.dll
+D:\Projects\CodeSamples\WebMethod\WebMethod\obj\Debug\WebMethod.pdb
